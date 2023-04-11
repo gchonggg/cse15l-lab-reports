@@ -5,7 +5,8 @@
 
 ## Step 1: Setting up CSE15L Account
 * Look up your course-sepcific account on: https://sdacs.ucsd.edu/~icc/index.php
-* Click on the highlighted link "UC San Diego Active Directory (AD) Password Change Tool" 
+* Click on the highlighted link "UC San Diego Active Directory (AD) Password Change Tool" as shown below: 
+    ![Image](https://gchonggg.github.io/cse15l-lab-reports/img/Screenshot%202023-04-10%20at%209.05.08%20PM.png)
 * Click on the highlighted link "Proceed to the Password Change Tool" as shown below: 
     ![Image](https://gchonggg.github.io/cse15l-lab-reports/img/Screenshot%202023-04-10%20at%208.58.09%20PM.png)
 * Type in your course-specific account username into the "AD Password Change Tool" box and press continue. 
