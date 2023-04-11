@@ -6,7 +6,8 @@
 ## Step 1: Setting up CSE15L Account
 * Look up your course-sepcific account on: https://sdacs.ucsd.edu/~icc/index.php
 * Click on the highlighted link "UC San Diego Active Directory (AD) Password Change Tool" 
-* Click on the highlighted link "Proceed to the Password Change Tool" 
+* Click on the highlighted link "Proceed to the Password Change Tool" as shown below: 
+    ![Image](https://gchonggg.github.io/cse15l-lab-reports/img/Screenshot%202023-04-10%20at%208.58.09%20PM.png)
 * Type in your course-specific account username into the "AD Password Change Tool" box and press continue. 
     For example, type in cs15lsp23zz if zz is the letters to your course specific account. 
 * Create a password for course specific account 
@@ -32,6 +33,8 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
 You will then be prompted to type in your password. 
 * Type in your full password and hit enter. 
+You should see something like the following: 
+![Image](https://gchonggg.github.io/cse15l-lab-reports/img/Screenshot%202023-04-10%20at%208.51.08%20PM.png)
 
 ## Step 4: Run commands
 Now that you are connected to the remote servers in UCSD, you can execute commands within the remote server. 
