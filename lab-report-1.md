@@ -40,7 +40,7 @@ RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
 You will then be prompted to type in your password. 
-* Type in your full password and hit enter. 
+* Type in your full password and https://github.com/gchonggg/cse15l-lab-reports.githit enter. 
 You should see something like the following: 
 ![Image](https://gchonggg.github.io/cse15l-lab-reports/img/Screenshot%202023-04-10%20at%208.51.08%20PM.png)
 
