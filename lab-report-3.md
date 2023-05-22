@@ -34,8 +34,11 @@ grep -iR "heroin" .
 ./911report/chapter-3.txt:                through trade in heroin. Nor had Massoud shown much aptitude for governing except as
 ```
 In this grep command, I searched all my current directory recursively for any instances of the word "heroin", while ignoring all cases. 
-The command outputted everyline that contained the word "heroin". This is an powerful command because it allows you to search through every 
-file in your current directory for a specific word.
+The command outputted everyline that contained the word "heroin". This is an powerful command because it allows you to search through every file in your current directory for a specific word.
+
+I found how to use this command with the following link:
+
+https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
 
 # grep -l [pattern] 
 Display list of filenames that matches a specific pattern 
@@ -66,6 +69,11 @@ grep -ilR "George Washington" .
 ./911report/chapter-13.5.txt
 ```
 In this grep command, I recursively searched through my current directory to find every file that contain an instance of George Washington, ignoring cases. The command then output every file within my current directory that contains "George Washington". This is an important use of grep because it allows us to quickly identify all files that matches some sort of specified pattern within our current directory. Like I said earlier, we can then pipe this files into another command. 
+
+I found how to use this command with the following link:
+
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+
 
 # grep -f [file] 
 Another command line argument for grep is the -f flag. This flag allows you to pass in a file containing all the patterns 
@@ -119,6 +127,12 @@ outputted 3 lines above and below every line that match the patterns in patterns
 use of the command -f because it allows us to see the context of why each of our pattern in `patterns.txt` show up in the governmnet
 directory. 
 
+I found how to use this command with the following links:
+
+https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
+
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+
 
 # grep [regex] filepath
 Another powerful use of the grep command is to use grep to identify a regex pattern. Regex, or regular expressions are 
@@ -155,3 +169,7 @@ Outputted the following:
 ```
 In this grep command, I outputted all the lines recursively within my current directory that contains a line beginning with 
 "Dear". 
+
+I learned about this option with the following link: 
+
+https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
