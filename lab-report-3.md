@@ -38,7 +38,7 @@ The command outputted everyline that contained the word "heroin". This is an pow
 
 I found how to use this command with the following link:
 
-[https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
+[cyberciti](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
 
 # grep -l [pattern] 
 Display list of filenames that matches a specific pattern 
@@ -72,7 +72,7 @@ In this grep command, I recursively searched through my current directory to fin
 
 I found how to use this command with the following link:
 
-[https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+[geeksforgeek](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 
 # grep -f [file] 
@@ -129,10 +129,10 @@ directory.
 
 I found how to use this command with the following links:
 
-[https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
+[cyberciti](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
 
 
-[https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+[geeksforgeek](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 
 # grep [regex] filepath
@@ -173,4 +173,4 @@ In this grep command, I outputted all the lines recursively within my current di
 
 I learned about this option with the following link: 
 
-[https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
+[cyberciti](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
