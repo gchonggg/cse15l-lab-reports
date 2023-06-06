@@ -70,6 +70,5 @@ git commit -m "Fixed error in ListExamples.java"<enter>
 git push<enter>  
 ```
 
-![img](img/lab4-6.png)
-![img](img/lab4-7.png)
+![img](img/lab4-end.png)
 
