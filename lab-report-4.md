@@ -69,6 +69,7 @@ git add ListExamples.java<enter>
 git commit -m "Fixed error in ListExamples.java"<enter>
 git push<enter>  
 ```
+if ran sucessessfully on ieng6, you should see something similar to the following: 
 
 ![img](img/lab4-end.png)
 
