@@ -40,14 +40,17 @@ ArrayExamples.java
 
 
 The full command line (or lines) that trigger the bug.  
- `java -cp .:lib/hamcrest-core-12.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore` 
-
+When trying to run the tests from the terminal, you run just this command. 
+```
+java -cp .:lib/hamcrest-core-12.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore
+```
  The command to fix the bug: 
-
+Run the following commands in the terminal to run the tests. 
  ```
 javac -cp.:lib/hamcrest-core-12.3.jar:lib/junit-4.13.2.jar  *.java
- java -cp .:lib/hamcrest-core-12.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore
+ java -cp .:lib/hamcrest-core-12.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTest
  ```
 ## Reflection
 
-Something I learning is how to debug and test files. 
+
+Something I learned while doing this lab is that in vscode, you can just press the `debug` button on the test function in the ArrayTests.java file to run that specific test. Something I also learned from this lab is to be patient when debugging. I realized that being calm allows you to debug easier from my classmates.
